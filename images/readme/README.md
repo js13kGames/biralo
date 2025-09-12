@@ -68,12 +68,12 @@ Use [spritesheet-viewer](https://github.com/smiley405/spritesheet-viewer) to vie
 <br>- Open the menu,
 <br>- Load the sprites.gif from images/grafx2/sprites.gif
 <br>
-<img src="/spritesheet-viewer-1.png">
+<img src="/images/readme/spritesheet-viewer-1.png">
 <br>
 <br>- Set the required grid dimensions, eg. width: 8, height: 8 and hit 'OK' button
 <br>- Select the frame, set animation speed from the menu
 <br>
-<img src="/spritesheet-viewer-2.png">
+<img src="/images/readme/spritesheet-viewer-2.png">
 <br>
 <br>- Go to Export, set filename,
 <br>- Click Suffix List,
@@ -86,4 +86,4 @@ Use [spritesheet-viewer](https://github.com/smiley405/spritesheet-viewer) to vie
 <br>- Finally, after that click 'OK' to export
 <br>- It's that easy!
 <br>
-<img src="/spritesheet-viewer-3.png">
+<img src="/images/readme/spritesheet-viewer-3.png">
