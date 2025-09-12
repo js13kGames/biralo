@@ -25,9 +25,12 @@ Meow... Meow, Meow.... Meow, Meow Meow..
 <br> 6. Requires installation of [advzip](https://github.com/amadvance/advancecomp) for the build command
 
 **How to edit and export images:**:
-<br>[Goto here](https://github.com/smiley405/spritesheet-viewer/images/readme/README.md)
+<br>[Goto here](https://github.com/smiley405/biralo/tree/main/images/readme)
 
 **Screenshots**:
+<br>
 <img src="/screenshots/biralo1.png">
+<br>
 <img src="/screenshots/biralo2.png">
-<img src="/screenshotsbiralo3.png">
+<br>
+<img src="/screenshots/biralo3.png">
